@@ -21,7 +21,7 @@ function toggleMenu() {
 
     //Set Menu State
     showMenu = true;
-    } else{
+    } else {
         MenuBtn.classList.remove('close');
         Menu.classList.remove('show');
         MenuNav.classList.remove('show');

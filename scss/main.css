@@ -60,7 +60,7 @@ main{
 
             &:hover {
                 color: $secondary-color;
-                @include easeIn();
+                @include easeOut();
             }
         }
     }
